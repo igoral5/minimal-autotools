@@ -1,0 +1,2 @@
+bin_PROGRAMS=minimal
+minimal_SOURCES=main.cpp

@@ -1,0 +1,10 @@
+/autom4te.cache
+/minimal
+/config.log
+/config.status
+/Makefile
+/main.o
+/.project
+/.cproject
+/.autotools
+/.deps
