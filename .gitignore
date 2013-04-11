@@ -1,9 +1,21 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
 /autom4te.cache
 /minimal
 /config.log
 /config.status
 /Makefile
-/main.o
 /.project
 /.cproject
 /.autotools
